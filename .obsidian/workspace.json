@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "73ef1ce5dccd83fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c247cb3e62e61961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5e9caf68b053d96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd9fac6d5d9e2a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f3b5b291c95777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d58c4bca385db488",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d519e93c4136131",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2551a8b1583e030",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec057f0924bb0548",
+    "type": "split",
+    "children": [
+      {
+        "id": "e482408d63625394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84c11ca7f9b53a52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e66d4dbef24f202f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16eca8580c1e4184",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da0a679e408bc090",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d1f08f6184a81855",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "d58c4bca385db488",
+  "lastOpenFiles": [
+    "高等微积分（2）/ImagesAssets/微信图片_20240307203926.jpg",
+    "高等微积分（2）/ImagesAssets/微信图片_20240307203916.jpg",
+    "高等微积分（2）/ImagesAssets/屏幕截图 2024-02-28 172903.png",
+    "高等微积分（2）/ImagesAssets/Pasted image 20240302104815.png",
+    "高等微积分（2）/ImagesAssets/Pasted image 20240302103746.png",
+    "高等微积分（2）/ImagesAssets/Pasted image 20240228170220.png",
+    "高等微积分（2）/ImagesAssets/Pasted image 20240228164759.png",
+    "高等微积分（2）/ImagesAssets/Pasted image 20240228164349.png",
+    "高等微积分（2）/ImagesAssets/Pasted image 20240228164252.png",
+    "高等微积分（2）/ImagesAssets/b4dce9d960a9581ee6a7400eb953823.jpg",
+    "高等微积分（2）/ImagesAssets/Pasted image 20240228164224.png",
+    "高等微积分（2）/ImagesAssets",
+    "高等微积分（2）/数项级数收敛判定法则.md",
+    "高等微积分（2）/幂级数和函数的幂级数展开.md",
+    "高等微积分（2）/常数项级数.md",
+    "高等微积分（2）/函数列与函数项级数.md",
+    "高等微积分（2）/zwm高微课上经典习题.md",
+    "高等微积分（2）",
+    "大学物理/ImagesAssets",
+    "大学物理/大物Q&A.md",
+    "大学物理/大学物理：3.动量与角动量.md",
+    "大学物理/大学物理：2.牛顿运动定律.md",
+    "大学物理/大学物理：1.质点运动学.md",
+    "大学物理",
+    "电子电路与系统基础/电电KnowledgeDirs/电路分析基本方法：加压求流法、加流求压法.md",
+    "电子电路与系统基础/电电KnowledgeDirs/电电：电阻拓展：实际电阻.md",
+    "电子电路与系统基础/电电KnowledgeDirs/关联参考方向.md",
+    "电子电路与系统基础/电电KnowledgeDirs",
+    "电子电路与系统基础/ImagesAssets/戴维南-诺顿定理.md",
+    "电子电路与系统基础/ImagesAssets",
+    "电子电路与系统基础/补充：PN结和PN结二极管.md",
+    "电子电路与系统基础/电路分析方法.md",
+    "电子电路与系统基础/电电课程介绍.md",
+    "电子电路与系统基础/电电Road MAP.md",
+    "电子电路与系统基础/1.6 晶体管.md",
+    "电子电路与系统基础/1.5 网络分析.md",
+    "电子电路与系统基础/1.4 电路完备方程列写.md",
+    "电子电路与系统基础/1.3 电路定理.md",
+    "电子电路与系统基础/1.2 电路系统属性&电阻与电源.md",
+    "电子电路与系统基础/1.1 电路定律、基本电量与数的基本设定、材料介绍.md",
+    "电子电路与系统基础",
+    "Welcome.md"
+  ]
+}
