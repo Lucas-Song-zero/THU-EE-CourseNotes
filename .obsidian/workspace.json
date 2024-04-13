@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子电路与系统基础/电电Road MAP.md",
+                "file": "电子电路与系统基础/课程笔记/1.7 晶体管.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电子电路与系统基础/电电Road MAP.md",
+                "file": "电子电路与系统基础/课程笔记/1.7 晶体管.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电子电路与系统基础/电电Road MAP.md",
+                "file": "电子电路与系统基础/课程笔记/1.7 晶体管.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电子电路与系统基础/电电Road MAP.md"
+                "file": "电子电路与系统基础/课程笔记/1.7 晶体管.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "e5e9caf68b053d96",
   "lastOpenFiles": [
-    "电子电路与系统基础/电电课程介绍.md",
     "电子电路与系统基础/电电Road MAP.md",
+    "电子电路与系统基础/电电课程介绍.md",
     "电子电路与系统基础/课程笔记/补充：PN结和PN结二极管.md",
     "电子电路与系统基础/电电结论和公式.md",
     "电子电路与系统基础/电电KnowledgeDirs/电路分析方法.md",
