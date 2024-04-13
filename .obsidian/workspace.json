@@ -11,8 +11,12 @@
             "id": "e5e9caf68b053d96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "电子电路与系统基础/电电Road MAP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "电子电路与系统基础/电电Road MAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "电子电路与系统基础/电电Road MAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "电子电路与系统基础/电电Road MAP.md"
+              }
             }
           },
           {
@@ -139,27 +147,40 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "d58c4bca385db488",
+  "active": "e5e9caf68b053d96",
   "lastOpenFiles": [
-    "高等微积分（2）/ImagesAssets/微信图片_20240307203926.jpg",
-    "高等微积分（2）/ImagesAssets/微信图片_20240307203916.jpg",
-    "高等微积分（2）/ImagesAssets/屏幕截图 2024-02-28 172903.png",
-    "高等微积分（2）/ImagesAssets/Pasted image 20240302104815.png",
-    "高等微积分（2）/ImagesAssets/Pasted image 20240302103746.png",
-    "高等微积分（2）/ImagesAssets/Pasted image 20240228170220.png",
-    "高等微积分（2）/ImagesAssets/Pasted image 20240228164759.png",
-    "高等微积分（2）/ImagesAssets/Pasted image 20240228164349.png",
-    "高等微积分（2）/ImagesAssets/Pasted image 20240228164252.png",
-    "高等微积分（2）/ImagesAssets/b4dce9d960a9581ee6a7400eb953823.jpg",
-    "高等微积分（2）/ImagesAssets/Pasted image 20240228164224.png",
+    "电子电路与系统基础/电电课程介绍.md",
+    "电子电路与系统基础/电电Road MAP.md",
+    "电子电路与系统基础/课程笔记/补充：PN结和PN结二极管.md",
+    "电子电路与系统基础/电电结论和公式.md",
+    "电子电路与系统基础/电电KnowledgeDirs/电路分析方法.md",
+    "电子电路与系统基础/课程笔记/1.1 电路定律、基本电量与数的基本设定、材料介绍.md",
+    "电子电路与系统基础/课程笔记/1.7 晶体管.md",
+    "电子电路与系统基础/课程笔记",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240413134354.png",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240413122900.png",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240413122106.png",
+    "电子电路与系统基础/ImagesAssets/无标题.png",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240413114823.png",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240413114232.png",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240411223733.png",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240411223706.png",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240411223520.png",
+    "电子电路与系统基础/ImagesAssets/Pasted image 20240411222957.png",
+    "电子电路与系统基础/课程笔记/1.6 运放和二极管.md",
+    "电子电路与系统基础/课程笔记/1.5 网络分析.md",
+    "电路常见/常用功能.md",
+    "电路常见",
+    "临时白班.canvas",
+    "电子电路与系统基础/电电KnowledgeDirs/反相和同相.md",
     "高等微积分（2）/ImagesAssets",
     "高等微积分（2）/数项级数收敛判定法则.md",
     "高等微积分（2）/幂级数和函数的幂级数展开.md",
@@ -179,17 +200,8 @@
     "电子电路与系统基础/电电KnowledgeDirs",
     "电子电路与系统基础/ImagesAssets/戴维南-诺顿定理.md",
     "电子电路与系统基础/ImagesAssets",
-    "电子电路与系统基础/补充：PN结和PN结二极管.md",
-    "电子电路与系统基础/电路分析方法.md",
-    "电子电路与系统基础/电电课程介绍.md",
-    "电子电路与系统基础/电电Road MAP.md",
-    "电子电路与系统基础/1.6 晶体管.md",
-    "电子电路与系统基础/1.5 网络分析.md",
-    "电子电路与系统基础/1.4 电路完备方程列写.md",
-    "电子电路与系统基础/1.3 电路定理.md",
-    "电子电路与系统基础/1.2 电路系统属性&电阻与电源.md",
-    "电子电路与系统基础/1.1 电路定律、基本电量与数的基本设定、材料介绍.md",
-    "电子电路与系统基础",
-    "Welcome.md"
+    "电子电路与系统基础/课程笔记/1.4 电路完备方程列写.md",
+    "电子电路与系统基础/课程笔记/1.3 电路定理.md",
+    "电子电路与系统基础"
   ]
 }
