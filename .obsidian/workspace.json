@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c247cb3e62e61961",
+        "id": "86ffe0dc27cb78f8",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e9caf68b053d96",
+            "id": "957a41ef5c939a24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子电路与系统基础/课程笔记/1.7 晶体管.md",
+                "file": "电子电路与系统基础/电电课程笔记/1.9 BJT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电子电路与系统基础/课程笔记/1.7 晶体管.md",
+                "file": "电子电路与系统基础/电电课程笔记/1.9 BJT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电子电路与系统基础/课程笔记/1.7 晶体管.md",
+                "file": "电子电路与系统基础/电电课程笔记/1.9 BJT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电子电路与系统基础/课程笔记/1.7 晶体管.md"
+                "file": "电子电路与系统基础/电电课程笔记/1.9 BJT.md"
               }
             }
           },
@@ -155,53 +155,54 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "e5e9caf68b053d96",
+  "active": "957a41ef5c939a24",
   "lastOpenFiles": [
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423201059.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423200932.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423200442.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423200115.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423195706.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423195314.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423194057.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423193023.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423191738.png",
     "电子电路与系统基础/电电Road MAP.md",
+    "电子电路与系统基础/电电课程笔记/1.9 BJT.md",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423171539.png",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets/Pasted image 20240423171212.png",
+    "电子电路与系统基础/电电课程笔记/补充：PN结和PN结二极管.md",
     "电子电路与系统基础/电电课程介绍.md",
-    "电子电路与系统基础/课程笔记/补充：PN结和PN结二极管.md",
+    "电子电路与系统基础/电电课程笔记/ImagesAssets",
+    "电子电路与系统基础/电电课程笔记/1.8 MOSFET.md",
+    "电电实验/实验2-心电图.md",
+    "Matlab/Matlab Tutorial.md",
+    "Matlab/Matlab函数备忘.md",
+    "Matlab",
+    "新建文件",
+    "电电实验/ImagesAssets",
+    "电子电路与系统基础/电电课程笔记/1.4 电路完备方程列写.md",
+    "电子电路与系统基础/电电课程笔记/1.3 电路定理.md",
     "电子电路与系统基础/电电结论和公式.md",
-    "电子电路与系统基础/电电KnowledgeDirs/电路分析方法.md",
-    "电子电路与系统基础/课程笔记/1.1 电路定律、基本电量与数的基本设定、材料介绍.md",
-    "电子电路与系统基础/课程笔记/1.7 晶体管.md",
-    "电子电路与系统基础/课程笔记",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240413134354.png",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240413122900.png",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240413122106.png",
-    "电子电路与系统基础/ImagesAssets/无标题.png",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240413114823.png",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240413114232.png",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240411223733.png",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240411223706.png",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240411223520.png",
-    "电子电路与系统基础/ImagesAssets/Pasted image 20240411222957.png",
-    "电子电路与系统基础/课程笔记/1.6 运放和二极管.md",
-    "电子电路与系统基础/课程笔记/1.5 网络分析.md",
     "电路常见/常用功能.md",
+    "高等微积分（2）/数项级数收敛判定法则.md",
+    "电电实验",
+    "高等微积分（2）/幂级数和函数的幂级数展开.md",
+    "高等微积分（2）/zwm高微课上经典习题.md",
+    "高等微积分（2）/函数列与函数项级数.md",
+    "电子电路与系统基础/电电课程笔记/1.7 晶体管.md",
+    "电子电路与系统基础/电电课程笔记/1.6 运放和二极管.md",
+    "电子电路与系统基础/电电课程笔记/1.5 网络分析.md",
+    "电子电路与系统基础/电电课程笔记/1.2 电路系统属性&电阻与电源.md",
+    "电子电路与系统基础/电电课程笔记/1.1 电路定律、基本电量与数的基本设定、材料介绍.md",
+    "电子电路与系统基础/ImagesAssets/戴维南-诺顿定理.md",
+    "电子电路与系统基础/电电KnowledgeDirs/电路分析方法.md",
+    "电子电路与系统基础/电电课程笔记",
     "电路常见",
     "临时白班.canvas",
     "电子电路与系统基础/电电KnowledgeDirs/反相和同相.md",
     "高等微积分（2）/ImagesAssets",
-    "高等微积分（2）/数项级数收敛判定法则.md",
-    "高等微积分（2）/幂级数和函数的幂级数展开.md",
     "高等微积分（2）/常数项级数.md",
-    "高等微积分（2）/函数列与函数项级数.md",
-    "高等微积分（2）/zwm高微课上经典习题.md",
     "高等微积分（2）",
-    "大学物理/ImagesAssets",
-    "大学物理/大物Q&A.md",
-    "大学物理/大学物理：3.动量与角动量.md",
-    "大学物理/大学物理：2.牛顿运动定律.md",
-    "大学物理/大学物理：1.质点运动学.md",
-    "大学物理",
-    "电子电路与系统基础/电电KnowledgeDirs/电路分析基本方法：加压求流法、加流求压法.md",
-    "电子电路与系统基础/电电KnowledgeDirs/电电：电阻拓展：实际电阻.md",
-    "电子电路与系统基础/电电KnowledgeDirs/关联参考方向.md",
-    "电子电路与系统基础/电电KnowledgeDirs",
-    "电子电路与系统基础/ImagesAssets/戴维南-诺顿定理.md",
-    "电子电路与系统基础/ImagesAssets",
-    "电子电路与系统基础/课程笔记/1.4 电路完备方程列写.md",
-    "电子电路与系统基础/课程笔记/1.3 电路定理.md",
-    "电子电路与系统基础"
+    "大学物理/ImagesAssets"
   ]
 }
